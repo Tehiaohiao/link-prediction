@@ -1,9 +1,18 @@
 # link-prediction
 ## Resources
 ### Datasets
+
 * [Stanford Large Network Dataset Collection][link]
 
 [link]: http://snap.stanford.edu/data/
+
+ * [Social circles: Facebook][link]
+
+[link]: http://snap.stanford.edu/data/ego-Facebook.html
+
+ * [General Relativity and Quantum Cosmology collaboration network][link]
+
+[link]: http://snap.stanford.edu/data/ca-GrQc.html
 
 ### Literatures/Papers
 * [Link prediction in social networks:the state-of-the-art][link]
