@@ -12,3 +12,5 @@
 * [Link prediction in social networks:the state-of-the-art](https://link.springer.com/content/pdf/10.1007%2Fs11432-014-5237-y.pdf)
 
 * [LINK PREDICTION IN SOCIAL NETWORKS](http://www.leonidzhukov.net/hse/2016/networks/papers/SNDA11.pdf)
+
+* [Evaluating Link Prediction Methods](https://arxiv.org/pdf/1505.04094.pdf)
