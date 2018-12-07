@@ -7,6 +7,8 @@
  * [Social circles: Facebook](http://snap.stanford.edu/data/ego-Facebook.html)
 
  * [General Relativity and Quantum Cosmology collaboration network](http://snap.stanford.edu/data/ca-GrQc.html)
+ 
+ * [Dynamic networks repo](http://networkrepository.com/dynamic.php)
 
 ### Literatures/Papers
 * [Link prediction in social networks:the state-of-the-art](https://link.springer.com/content/pdf/10.1007%2Fs11432-014-5237-y.pdf)
